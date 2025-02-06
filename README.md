@@ -3,8 +3,8 @@
 🎨 Love combining **technology and creativity** to build innovative projects.
 
 ## Contact:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyenmaihuogn/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bnabnubne/)  
+<a href="https://www.facebook.com/nguyenmaihuogn/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/0866FF" width="40" height="40"/></a>  
+<a href="https://www.instagram.com/bnabnubne/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/FF0069" width="40" height="40"/></a>  
 
 ### ✨ "Just a girl with a laptop, a dream, and a touch of sparkle! ✨💻💕"
 
